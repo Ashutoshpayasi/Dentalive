@@ -1,7 +1,7 @@
 <footer class="footer-area pt-100 pb-70">
     <div class="container">
         <div class="row">
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="single-footer-widget">
                     <h2>
                         <a href="index.php">Dentalive</a>
@@ -17,7 +17,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-6">
+            <div class="col-lg-4 col-sm-6">
                 <div class="single-footer-widget">
                     <h3>Useful Link</h3>
                     <ul class="quick-links">
@@ -51,7 +51,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-6">
+            <!-- <div class="col-lg-3 col-sm-6">
                 <div class="single-footer-widget">
                     <h3>News & Blog</h3>
                     <div class="footer-widget-blog">
@@ -84,8 +84,8 @@
                         </article>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-3 col-sm-6">
+            </div> -->
+            <div class="col-lg-4 col-sm-6">
                 <div class="single-footer-widget">
                     <h3>Contact Information</h3>
                     <ul class="footer-information">
