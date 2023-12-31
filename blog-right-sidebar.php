@@ -36,8 +36,7 @@
 
     <link rel="stylesheet" href="assets/css/responsive.css">
     <title>Dentalive -Dental Clinic</title>
-    <link rel="icon" type="image/png" href="assets/images/favicon.png">
-</head>
+    <link rel="icon" type="image/png" href="assets\images\logo\1.png"></head>
 
 <body>
 

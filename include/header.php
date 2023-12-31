@@ -121,35 +121,35 @@
                             </a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item">
-                                    <a href="dentist.php" class="nav-link">Dental Check-up</a>
+                                    <a href="services.php" class="nav-link">Dental Check-up</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="dentist.php" class="nav-link">Dental Implants</a>
+                                    <a href="services.php" class="nav-link">Dental Implants</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="dentist.php" class="nav-link">Dentures</a>
+                                    <a href="services.php" class="nav-link">Dentures</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="dentist.php" class="nav-link">Orthodontic Treatment</a>
+                                    <a href="services.php" class="nav-link">Orthodontic Treatment</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="dentist.php" class="nav-link">Root Canal Treatment</a>
+                                    <a href="services.php" class="nav-link">Root Canal Treatment</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="dentist.php" class="nav-link">Teeth Scalling and Polishing</a>
+                                    <a href="services.php" class="nav-link">Teeth Scalling and Polishing</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="dentist.php" class="nav-link">Teeth Cleaning</a>
+                                    <a href="services.php" class="nav-link">Teeth Cleaning</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="dentist.php" class="nav-link">Teet Whitening and Bleaching</a>
+                                    <a href="services.php" class="nav-link">Teet Whitening and Bleaching</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="dentist-details.php" class="nav-link">Overdentures</a>
+                                    <a href="services.php" class="nav-link">Overdentures</a>
                                 </li>
                             </ul>
                         </li>
-                        <li class="nav-item">
+                        <!-- <li class="nav-item">
                             <a href="#" class="nav-link">
                                 Services
                                 <i class="bx bx-caret-down"></i>
@@ -162,51 +162,11 @@
                                     <a href="services-details.php" class="nav-link">Services Details</a>
                                 </li>
                             </ul>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#" class="nav-link">
-                                Pages
-                                <i class="bx bx-caret-down"></i>
-                            </a>
-                            <ul class="dropdown-menu">
-                                <li class="nav-item">
-                                    <a href="about-us.php" class="nav-link">About Us</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="appointment.php" class="nav-link">Appointment</a>
-                                </li>
-                                <!-- <li class="nav-item">
-                                    <a href="pricing.php" class="nav-link">Pricing</a>
-                                </li> -->
-                                <li class="nav-item">
-                                    <a href="testimonials.php" class="nav-link">Testimonials</a>
-                                </li>
-                                <!-- <li class="nav-item">
-                                    <a href="gallery.php" class="nav-link">Gallery</a>
-                                </li> -->
-                                <!-- <li class="nav-item">
-                                    <a href="login.php" class="nav-link">Login</a>
-                                </li> -->
-                                <!-- <li class="nav-item">
-                                    <a href="register.php" class="nav-link">Register</a>
-                                </li> -->
-                                <li class="nav-item">
-                                    <a href="faq.php" class="nav-link">FAQ</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="error-404.php" class="nav-link">404 Error</a>
-                                </li>
-                                <!-- <li class="nav-item">
-                                    <a href="terms-of-service.php" class="nav-link">Terms of Service</a>
-                                </li> -->
-                                <li class="nav-item">
-                                    <a href="privacy_policy.php" class="nav-link">Privacy Policy</a>
-                                </li>
-                                <!-- <li class="nav-item">
-                                    <a href="coming-soon.php" class="nav-link">Coming Soon</a>
-                                </li> -->
-                            </ul>
-                        </li>
+                        </li> -->
+                       
+                        <!-- <li class="nav-item">
+                            <a href="appointment.php" class="nav-link">Appointment</a>
+                        </li> -->
                         <li class="nav-item">
                             <a href="#" class="nav-link">
                                 Blog
@@ -227,7 +187,7 @@
                     </ul>
                     <div class="option-item">
                         <div class="navbar-btn">
-                            <a href="appointment.php" class="default-btn">Call</a>
+                            <a href="appointment.php" class="default-btn">Book Appointment</a>
                         </div>
                     </div>
 

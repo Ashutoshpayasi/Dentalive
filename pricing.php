@@ -35,8 +35,8 @@
     <link rel="stylesheet" href="assets/css/dark.css">
 
     <link rel="stylesheet" href="assets/css/responsive.css">
-    <title>Grin - Medical Health & Dental Clinic HTML Template</title>
-    <link rel="icon" type="image/png" href="assets/images/favicon.png">
+    <title>Dentalive</title>
+    <link rel="icon" type="image/png" href="assets\images\logo\1.png">
 </head>
 
 <body>
@@ -683,7 +683,7 @@
         <div class="container">
             <div class="copyright-area-content">
                 <p>
-                    © Grin is proudly created by
+                    © Dentalive is proudly created by
                     <a href="https://hibootstrap.com/" target="_blank">
                         HiBootstrap
                     </a>

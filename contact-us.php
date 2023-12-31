@@ -36,7 +36,7 @@
 
     <link rel="stylesheet" href="assets/css/responsive.css">
     <title>Dentalive- Dental Clinic</title>
-    <link rel="icon" type="image/png" href="assets/images/favicon.png">
+    <link rel="icon" type="image/png" href="assets\images\logo\1.png">
 </head>
 
 <body>
@@ -112,9 +112,9 @@
                 <div class="contact-info-content">
                     <h3>Contact Us by Phone Number or Email Address</h3>
                     <h2>
-                        <a href="tel:+0881306298615">+088 130 629 8615</a>
+                        <a href="tel:+91 9930104410">+91 9930104410</a>
                         <span>OR</span>
-                        <a href="https://templates.hibootstrap.com/cdn-cgi/l/email-protection#2344514a4d63444e424a4f0d404c4e"><span class="__cf_email__" data-cfemail="c5a2b7acab85a2a8a4aca9eba6aaa8">[email&#160;protected]</span></a>
+                        <a href="https://templates.hibootstrap.com/cdn-cgi/l/email-protection#2344514a4d63444e424a4f0d404c4e"><span class="__cf_email__" data-cfemail="c5a2b7acab85a2a8a4aca9eba6aaa8">mydentalive@gmail.com</span></a>
                     </h2>
                     <ul class="social">
                         <li><a href="#" target="_blank"><i class="bx bxl-twitter"></i></a></li>

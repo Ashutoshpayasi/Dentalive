@@ -7,9 +7,9 @@
                         <a href="index.php">Dentalive</a>
                     </h2>
                     <p>Everybody loses a tooth at some point. But, a smart person replaces it & continues to enjoy life!</p>
-                    <div class="signature">
+                    <!-- <div class="signature">
                         <img src="assets/images/footer/signature.png" alt="image">
-                    </div>
+                    </div> -->
                     <div class="footer-info">
                         <img src="assets/images/footer/footer-1.jpg" alt="image">
                         <h4>Dr. Mitu Kumari</h4>
@@ -133,7 +133,7 @@
     <div class="container">
         <div class="copyright-area-content">
             <p>
-                2024 © copyright | Dentalive 
+                2024 © copyright | Dentalive
                 <a href="https://hibootstrap.com/" target="_blank">
                 </a>
             </p>

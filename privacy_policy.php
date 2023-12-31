@@ -36,7 +36,7 @@
 
     <link rel="stylesheet" href="assets/css/responsive.css">
     <title>Grin - Medical Health & Dental Clinic HTML Template</title>
-    <link rel="icon" type="image/png" href="assets/images/favicon.png">
+    <link rel="icon" type="image/png" href="assets\images\logo\1.png">
 </head>
 
 <body>
