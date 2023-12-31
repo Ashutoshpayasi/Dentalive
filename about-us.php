@@ -41,18 +41,24 @@
 
 <body>
 
- 
-<?php include 'include/header.php'?>
+
+    <?php include 'include/header.php' ?>
 
 
     <div class="page-banner-area">
         <div class="container">
             <div class="page-banner-content">
-                <h2>About Us</h2>
-                <ul class="pages-list">
+                <h2>About Dentalive</h2>
+                <!-- <ul class="pages-list">
                     <li><a href="index.php">Home</a></li>
                     <li>About Us</li>
-                </ul>
+                </ul> -->
+                <p class="text-white">Dentalive Multispecialty dental clinic is situated in a peaceful location of Nerul east
+                    offering dental care to all age groups in a relaxing and comfortable ambience
+                    An ideal place if you are seeking specialized and trained 
+                    dentists from all fields of dentistry. We believe dentistry goes beyond teeth so We assure you get an unparalleled experience in dental care.
+
+                </p>
             </div>
         </div>
     </div>
@@ -68,7 +74,9 @@
                             About Our Hospital
                         </span>
                         <h3>Our Clients are Our Priority, We Offer Quality Dental Services <span>of Specialists</span></h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>At Dentalive we help you to make great oral health a realistic priority.
+                            Best standards are maintained at all times to provide complete oral rehabilitation.
+                        </p>
                         <div class="row">
                             <div class="col-lg-6 col-md-6">
                                 <ul class="about-list">
@@ -455,7 +463,6 @@
         </div>
     </section>
 
-
     <section class="review-area ptb-100">
         <div class="container">
             <div class="row align-items-center">
@@ -479,18 +486,22 @@
                     <div class="icon">
                         <i class="flaticon-left-quote"></i>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p>Exceptional dental care! The team at Dentalive goes above and beyond to ensure a comfortable and 
+                        personalized experience.
+                         Highly recommended for their expertise and friendly service</p>
                     <div class="review-info">
                         <img src="assets/images/review/review-1.jpg" alt="image">
                         <h3>Dr. Sarah Taylor</h3>
                         <span>Nephrologists</span>
                     </div>
                 </div>
-                <div class="single-review-item">
+                <div class="single-review-item">    
                     <div class="icon">
                         <i class="flaticon-left-quote"></i>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p>A wonderful dental clinic! Professionalism, modern facilities, and a warm atmosphere make
+                         Dentalive my top choice for dental health. 
+                        The skilled team ensures a painless and enjoyable visit.</p>
                     <div class="review-info">
                         <img src="assets/images/review/review-2.jpg" alt="image">
                         <h3>Dr. Aiken Ward</h3>
@@ -501,7 +512,8 @@
                     <div class="icon">
                         <i class="flaticon-left-quote"></i>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p>Outstanding service! Dentalive provides top-notch care with a friendly touch. The staff is knowledgeable, 
+                        and the clinic is equipped with the latest technology. My go-to for dental needs</p>
                     <div class="review-info">
                         <img src="assets/images/review/review-3.jpg" alt="image">
                         <h3>Dr. Eachann Jhon</h3>
@@ -512,7 +524,7 @@
                     <div class="icon">
                         <i class="flaticon-left-quote"></i>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p>Dentalive is fantastic! From the moment you step in, the atmosphere is welcoming. The dentists are skilled and take the time to explain procedures. A trustworthy and reliable dental clinic.</p>
                     <div class="review-info">
                         <img src="assets/images/review/review-1.jpg" alt="image">
                         <h3>Dr. Sarah Taylor</h3>
@@ -523,7 +535,8 @@
                     <div class="icon">
                         <i class="flaticon-left-quote"></i>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p>I had a great experience at Dentalive! The staff is friendly, and the dentists are thorough and gentle.
+                         The clinic is clean and modern, making each visit comfortable and stress-free.</p>
                     <div class="review-info">
                         <img src="assets/images/review/review-2.jpg" alt="image">
                         <h3>Dr. Aiken Ward</h3>
@@ -534,7 +547,7 @@
                     <div class="icon">
                         <i class="flaticon-left-quote"></i>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p>Dentalive is fantastic! From the moment you step in, the atmosphere is welcoming. The dentists are skilled and take the time to explain procedures. A trustworthy and reliable dental clinic.</p>
                     <div class="review-info">
                         <img src="assets/images/review/review-3.jpg" alt="image">
                         <h3>Dr. Eachann Jhon</h3>
@@ -545,7 +558,8 @@
                     <div class="icon">
                         <i class="flaticon-left-quote"></i>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p>Outstanding service! Dentalive provides top-notch care with a friendly touch. The staff is knowledgeable, 
+                        and the clinic is equipped with the latest technology. My go-to for dental needs</p>
                     <div class="review-info">
                         <img src="assets/images/review/review-1.jpg" alt="image">
                         <h3>Dr. Sarah Taylor</h3>
@@ -556,7 +570,8 @@
                     <div class="icon">
                         <i class="flaticon-left-quote"></i>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p>Outstanding service! Dentalive provides top-notch care with a friendly touch. The staff is knowledgeable, 
+                        and the clinic is equipped with the latest technology. My go-to for dental needs</p>
                     <div class="review-info">
                         <img src="assets/images/review/review-2.jpg" alt="image">
                         <h3>Dr. Aiken Ward</h3>
@@ -567,7 +582,7 @@
                     <div class="icon">
                         <i class="flaticon-left-quote"></i>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p>I had a great experience at Dentalive! The staff is friendly, and the dentists are thorough and gentle. The clinic is clean and modern, making each visit comfortable and stress-free.</p>
                     <div class="review-info">
                         <img src="assets/images/review/review-3.jpg" alt="image">
                         <h3>Dr. Eachann Jhon</h3>
@@ -579,8 +594,8 @@
     </section>
 
 
-    
-    <?php include 'include/footer.php'?>
+
+    <?php include 'include/footer.php' ?>
 
     <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script src="assets/js/jquery.min.js"></script>
