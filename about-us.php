@@ -273,7 +273,7 @@
                                     <div class="pricing-header">
                                         <h3>Basic</h3>
                                     </div>
-                                    <div class="price">$39</div>
+                                    <div class="price">₹399</div>
                                     <ul class="pricing-features">
                                         <li>Cancer Services</li>
                                         <li>Cardiovascular Services</li>
@@ -296,7 +296,7 @@
                                     <div class="pricing-header">
                                         <h3>Standard</h3>
                                     </div>
-                                    <div class="price">$59</div>
+                                    <div class="price">₹599</div>
                                     <ul class="pricing-features">
                                         <li>Cancer Services</li>
                                         <li>Cardiovascular Services</li>
@@ -319,7 +319,7 @@
                                     <div class="pricing-header">
                                         <h3>Premium</h3>
                                     </div>
-                                    <div class="price">$79</div>
+                                    <div class="price">₹799</div>
                                     <ul class="pricing-features">
                                         <li>Cancer Services</li>
                                         <li>Cardiovascular Services</li>
@@ -342,7 +342,7 @@
                                     <div class="pricing-header">
                                         <h3>Gold</h3>
                                     </div>
-                                    <div class="price">$99</div>
+                                    <div class="price">₹999</div>
                                     <ul class="pricing-features">
                                         <li>Cancer Services</li>
                                         <li>Cardiovascular Services</li>
@@ -369,7 +369,7 @@
                                     <div class="pricing-header">
                                         <h3>Basic</h3>
                                     </div>
-                                    <div class="price">$139</div>
+                                    <div class="price">₹1399</div>
                                     <ul class="pricing-features">
                                         <li>Cancer Services</li>
                                         <li>Cardiovascular Services</li>
@@ -392,7 +392,7 @@
                                     <div class="pricing-header">
                                         <h3>Standard</h3>
                                     </div>
-                                    <div class="price">$259</div>
+                                    <div class="price">₹2590</div>
                                     <ul class="pricing-features">
                                         <li>Cancer Services</li>
                                         <li>Cardiovascular Services</li>
@@ -415,7 +415,7 @@
                                     <div class="pricing-header">
                                         <h3>Premium</h3>
                                     </div>
-                                    <div class="price">$279</div>
+                                    <div class="price">₹2790</div>
                                     <ul class="pricing-features">
                                         <li>Cancer Services</li>
                                         <li>Cardiovascular Services</li>
@@ -438,7 +438,7 @@
                                     <div class="pricing-header">
                                         <h3>Gold</h3>
                                     </div>
-                                    <div class="price">$399</div>
+                                    <div class="price">₹3990</div>
                                     <ul class="pricing-features">
                                         <li>Cancer Services</li>
                                         <li>Cardiovascular Services</li>

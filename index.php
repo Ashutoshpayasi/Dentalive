@@ -517,7 +517,7 @@
         </div>
     </section>
 
-
+<!-- 
     <section class="doctor-area pb-70">
         <div class="container">
             <div class="row align-items-center">
@@ -590,7 +590,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- FAQ-->
 
 

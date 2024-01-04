@@ -116,7 +116,7 @@ h6:last-child {
     display: inline-block;
     background-color: #06a3da;
     color: #fff;
-    padding: 18px 35px;
+    padding: 12px 35px;
     font-size: 15px;
     font-weight: 500;
     transition: .6s;
@@ -1198,8 +1198,8 @@ h6:last-child {
 
 .main-slides-content .slides-btn .checkup-content .icon i {
     display: inline-block;
-    height: 65px;
-    width: 65px;
+    height: 60px;
+    width: 60px;
     line-height: 65px;
     background-color: #06a3da;
     color: #fff;
@@ -4528,8 +4528,8 @@ blockquote p,
 
 .single-footer-widget .footer-info img {
     display: inline-block;
-    height: 55px;
-    width: 55px;
+    height: 65px;
+    width: 65px;
     border-radius: 15px;
     position: absolute;
     left: 0;

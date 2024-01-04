@@ -11,7 +11,7 @@
                         <img src="assets/images/footer/signature.png" alt="image">
                     </div> -->
                     <div class="footer-info">
-                        <img src="assets/images/footer/footer-1.jpg" alt="image">
+                        <img src="assets\images\doctor\dr mitu kumari.jpg" alt="image">
                         <h4>Dr. Mitu Kumari</h4>
                         <span>CEO & Founder</span>
                     </div>
@@ -93,24 +93,27 @@
                             <i class="flaticon-emergency-call"></i>
                             Call Today
                             <span>
-                                +91 9930104410
+
+                                +91 8291586390<br>
+                                +91 8657803952<br>
+                                +91 9987520016
+
                             </span>
                         </li>
                         <li>
                             <i class="flaticon-wall-clock"></i>
                             Open Hour
-                            <span>09:00 AM to 18:00 PM</span>
+                            <p>Monday-Saturday</p>
+                            <span>11:00 AM to 09:00 PM</span>
+                            <p>(Sundays by appointment only )</p>
                         </li>
                         <li>
                             <i class="flaticon-red-cross"></i>
                             Our Location
                             <span>
-                                Dentalive Multispeciality Dental Clinic
-                                Meghna,
-                                Shop no-2,plot no-27A <br>
-                                red rose apartment
-                                Sec-27,seawoods (E) <br>
-                                Navi mumbai -400706 </span>
+                                Meghna,Shop no-2,<br>
+                                plot no-95,Sec-27 <br>
+                                Nerul,Navi mumbai -400706 </span>
                         </li>
 
                     </ul>
